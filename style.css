@@ -1,0 +1,22 @@
+body{
+    background-color:cornflowerblue;
+    font-family: cursive;
+}
+#score_span{
+    font-size: 20;
+    float:left;
+    margin-left: 100px;
+    font-weight: bolder
+}
+#timer_span{
+    font-size: 20;
+    float:right;
+    margin-right: 100px;
+    font-weight: bolder
+}
+#show_sketch{
+    float: right;
+}
+h1{
+    background-color:bisque;
+}
